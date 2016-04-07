@@ -1,0 +1,11 @@
+{
+    "name": "angular1.50.",
+    "description": "angular v1.5.0",
+    "repos": "https://github.com/isaacmi/angular1.5.0",
+    "main": "angular.js",
+    "tag": "",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.0.2",
+    "umd2commonjs": true
+}
